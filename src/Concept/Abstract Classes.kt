@@ -22,15 +22,3 @@ fun main(){
     myClass.introduce()
     myClass.printName()
 }
-
-//An interface is a contract that defines a set of methods or properties that a class must implement.
-
-interface Interface{
-    fun introduce()
-}
-
-class CheckInterface(val name: String): Interface{
-    override fun introduce() {
-        println("Hi, I'm $name")
-    }
-}

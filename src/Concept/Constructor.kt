@@ -1,9 +1,13 @@
 package Concept
 
-//Constructor
+//Constructor is special functions that are used to initialize the class.
 
 //Primary Constructor: It declares at class header level... or you can say it parameter() for class which class don't have without a constructor.
 class Builder(val project: String, val salary: Double){
+
+
+    //Secondary Constructor: It declares at class body level... or you can say it parameter() for class which class have a constructor.
+
 
     fun printProjectDetails(){
         println("Project Name: $project")
