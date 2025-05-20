@@ -1,4 +1,4 @@
-package Concept
+package Kotlin.Concept
 
 //An enum class is used to define a fixed set of constants. Great for representing states, directions, ranks, etc.
 

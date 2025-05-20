@@ -1,4 +1,4 @@
-package Practice
+package Kotlin.Practice
 
 enum class AkatsukiMember(val rank: String, val speciality: String) {
     Itachi("S-Rank", "Mangekyo Sharingan"),

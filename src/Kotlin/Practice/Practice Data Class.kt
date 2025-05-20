@@ -1,4 +1,4 @@
-package Practice
+package Kotlin.Practice
 
 data class Ninja(var name: String, var rank: String, var chakraLevel: Int)
 

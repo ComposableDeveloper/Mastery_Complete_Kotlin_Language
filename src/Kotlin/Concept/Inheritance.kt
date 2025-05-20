@@ -1,4 +1,4 @@
-package Concept
+package Kotlin.Concept
 
 //Inheritance: The process where one class acquire the properties and behaviors of another class.
 //An open keyword is used to make a class inheritable.

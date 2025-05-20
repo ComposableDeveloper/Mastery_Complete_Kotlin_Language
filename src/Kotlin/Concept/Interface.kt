@@ -1,4 +1,4 @@
-package Concept
+package Kotlin.Concept
 
 //An interface defines functions (and optionally properties) that any class can implement.
 

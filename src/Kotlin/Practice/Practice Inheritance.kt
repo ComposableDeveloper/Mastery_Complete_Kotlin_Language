@@ -1,4 +1,4 @@
-package Practice
+package Kotlin.Practice
 
 open class JutsuUser(val name: String, val kekkeiGenkai: String){
       open fun useJutsu(){

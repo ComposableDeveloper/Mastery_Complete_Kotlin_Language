@@ -1,4 +1,4 @@
-package Practice
+package Kotlin.Practice
 
 
 //Question 1

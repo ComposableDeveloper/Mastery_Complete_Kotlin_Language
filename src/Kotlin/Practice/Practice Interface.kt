@@ -1,4 +1,4 @@
-package Practice
+package Kotlin.Practice
 
 interface AkatsukiPower {
     fun introduce()

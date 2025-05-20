@@ -1,4 +1,4 @@
-package Concept
+package Kotlin.Concept
 
 //a companion object allows you to define functions and properties
 // that belong to a class itself, not to instances of it.
